@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.iws
+target/
+build/
+!build/libs/cm-0.0.1.jar
+.sonar/
+.sonarlint/
+.gradle
+.gitignore
+docker-compose.yaml
+Dockerfile
